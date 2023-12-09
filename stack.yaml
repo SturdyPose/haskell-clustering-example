@@ -42,7 +42,10 @@ packages:
 #
 extra-deps: 
 - clustering-0.4.1
+- Chart-cairo-1.9
+- ./Haskelyzer
 
+allow-newer: true
 
 # Override default flag values for local packages and extra-deps
 # flags: {}

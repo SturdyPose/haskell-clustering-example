@@ -23,10 +23,13 @@ dependencies:
 - base >= 4.7 && < 5
 - clustering == 0.4.1
 - Chart
-- Chart-diagrams
+- Chart-cairo 
 - vector
 - containers
 - matrices
+- criterion
+- Haskelyzer
+- text 
 
 ghc-options:
 - -Wall

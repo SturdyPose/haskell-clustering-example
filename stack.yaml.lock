@@ -11,6 +11,13 @@ packages:
       size: 1180
   original:
     hackage: clustering-0.4.1
+- completed:
+    hackage: Chart-cairo-1.9@sha256:82875639be230c9406dbea650647b2dc94b11060160d6dad2c98551bb23d544f,877
+    pantry-tree:
+      sha256: 3eef9a2fdb682a95f5a60e66258d5b6036e9b8c19a7260f626ddda2d30113055
+      size: 238
+  original:
+    hackage: Chart-cairo-1.9
 snapshots:
 - completed:
     sha256: 85d2382958c178491d3fe50d770a624621f5ab456beef7d31ac7521f780c9bc7
